@@ -1,0 +1,5 @@
+feature_name,feature_type,num_unique_values,sub_type,null_percentage,unique_record
+state,Categorical Feature,50,Nominal,0.0,"['NJ' 'HI' 'WI' 'PA' 'KY' 'AZ' 'NV' 'IL' 'SC' 'CO' 'FL' 'TN' 'CA' 'TX'
+ 'VA' 'NY' 'GA' 'MO' 'MD' 'NC' 'NH' 'UT' 'DE' 'OR' 'OH' 'OK' 'SD' 'MN'
+ 'MA' 'AL' 'WY' 'LA' 'WV' 'IN' 'MI' 'KS' 'AR' 'MS' 'WA' 'NE' 'ME' 'VT'
+ 'CT' 'NM' 'AK' 'RI' 'ND' 'MT' 'DC' 'ID']"
