@@ -3,3 +3,5 @@ state,Categorical Feature,50,Nominal,0.0,"['NJ' 'HI' 'WI' 'PA' 'KY' 'AZ' 'NV' 'I
  'VA' 'NY' 'GA' 'MO' 'MD' 'NC' 'NH' 'UT' 'DE' 'OR' 'OH' 'OK' 'SD' 'MN'
  'MA' 'AL' 'WY' 'LA' 'WV' 'IN' 'MI' 'KS' 'AR' 'MS' 'WA' 'NE' 'ME' 'VT'
  'CT' 'NM' 'AK' 'RI' 'ND' 'MT' 'DC' 'ID']"
+homeownership,Categorical Feature,3,Nominal,0.0,['MORTGAGE' 'RENT' 'OWN']
+verified_income,Categorical Feature,3,Nominal,0.0,['Verified' 'Not Verified' 'Source Verified']
